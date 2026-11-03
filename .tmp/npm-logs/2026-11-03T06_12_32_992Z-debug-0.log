@@ -1,0 +1,19 @@
+0 verbose cli /home/epoc/.local/opt/node22/bin/node /home/epoc/.local/opt/node22/bin/npm
+1 info using npm@10.9.9
+2 info using node@v22.23.4
+3 silly config load:file:/home/epoc/.local/opt/node22/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/epoc/src/agent-working-proj/.npmrc
+5 silly config load:file:/home/epoc/.npmrc
+6 silly config load:file:/home/epoc/.local/opt/node22/etc/npmrc
+7 verbose title npm view playwright-core version
+8 verbose argv "view" "playwright-core" "version"
+9 verbose logfile logs-max:10 dir:/home/epoc/src/agent-working-proj/.tmp/npm-logs/2026-11-03T06_12_32_992Z-
+10 verbose logfile /home/epoc/src/agent-working-proj/.tmp/npm-logs/2026-11-03T06_12_32_992Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/playwright-core 4693ms (cache miss)
+13 verbose cwd /home/epoc/src/agent-working-proj/.tmp
+14 verbose os Linux 6.6.87.2-microsoft-standard-WSL2
+15 verbose node v22.23.4
+16 verbose npm  v10.9.9
+17 verbose exit 0
+18 info ok

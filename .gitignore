@@ -3,3 +3,19 @@ dist/
 .env
 .DS_Store
 __pycache__/
+
+# Demo runtime state
+.codex-home/
+demo-data/notes.json
+workspace/.demo-tmp/
+
+# Local dev / screenshot artifacts
+.chrome-*/
+.fonts/
+.fonts.conf
+.fontcache/
+.demo-server.log
+.sse*.log
+.shot*.png
+.cdp*.mjs
+.shots.mjs

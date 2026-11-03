@@ -1,0 +1,6 @@
+# dsh-code-browser bundle layer: one read-only code browsing tab in the Web
+# right Sidebar. All file access goes through the workspaceFiles Remote, so the
+# plugin never sees a path outside the Session's workspace.
+- insert:
+    - id: dsh-code-browser
+      name: dsh-code-browser

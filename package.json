@@ -1,0 +1,15 @@
+{
+  "name": "codex-app-server-agent-demo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A minimal agent UI built on top of the Codex app-server JSON-RPC protocol: MCP tools, skills, local knowledge base, approvals.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "start": "node src/server.mjs",
+    "smoke": "node scripts/smoke.mjs"
+  }
+}
